@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\bin\Debug\FormReproductor.exe.config
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\bin\Debug\FormReproductor.exe
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\bin\Debug\FormReproductor.pdb
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.Properties.Resources.resources
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.exe
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.pdb
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\bin\Debug\Tema5Ejercicio3.dll
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\bin\Debug\Tema5Ejercicio3.pdb
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.Form1.resources
+C:\Users\PC\source\repos\Tema5Ejercicio3\FormReproductor\obj\Debug\FormReproductor.csproj.CopyComplete

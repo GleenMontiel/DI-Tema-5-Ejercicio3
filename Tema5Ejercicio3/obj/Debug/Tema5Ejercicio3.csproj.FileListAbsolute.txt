@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\bin\Debug\Tema5Ejercicio3.dll
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\bin\Debug\Tema5Ejercicio3.pdb
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.Reproductor.resources
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.dll
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.pdb
+C:\Users\PC\source\repos\Tema5Ejercicio3\Tema5Ejercicio3\obj\Debug\Tema5Ejercicio3.Properties.Resources.resources
